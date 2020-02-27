@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Anton|Gochi+Hand&display=swap");
+
+ #lego {
+    float: left;
+}
+#delicious {
+    font-family: Lobster ;
+float: left;
+margin:10px ;
+}
+#pizza {
+    font-family: Anton;
+    font-size: 40px;
+    margin-top: 10px;
+}
+#menu {
+    font-family: 'Gochi Hand';
+    background-image: url(image/list-bg.png);
+}
+h5{
+    font-size: 10px;
+    float: left;
+    margin-left: -100px;
+display: inline-block;}
+nav{
+    float: right;
+    margin-top: -20px;
+}
+#pizza {
+    float: left;
+} */
+.leftHeader span{
+    float: left;
+    }
+#line1{
+    margin-top: 50px;
+    /* background-image: url(); */
+}
+#posted{
+    display: inline-block;
+    margin-top: 70px;
+    margin-left: -220px;
+}
+
+#print{
+    float: right;
+    margin-top: 50px;
+}
+#sss{
+    float: right;
+    display: inline-block;
+    margin-top:47px ;
+}
+#cake{
+    width: 100%;
+    height: 10%;
+}
+#par1 {
+    font-size: 19px;
+    color: grey;
+}
+#c1{
+    display: inline-block;
+    float: right;
+}
+#c2 {
+    display: inline-block;
+    float: right;
+    margin-top: -135px;
+    margin-right: 300px;
+}
+#nameV{
+    font-size: 19px;
+    color: grey;
+    display: inline-block;
+    margin-right: -40px;
+margin-top: -50px;
+}
+#yasmen {
+    display: inline-block;
+    float: left;
+}
+#par2 {
+    color: grey;
+    display: inline-block;
+    margin-right: -40px;
+margin-top: -30px;
+float: left;
+}
+#submit{
+    background-color: rgb(224, 71, 10);
+    display: inline-block;
+    float: right;margin-top: -50px;
+    height: 40px;
+}
+#par3{
+    text-align: center;
+    color: grey;
+}
+#lego1{
+/* float: none; */
+margin: 0 auto;
+display: inline-block;
+margin-left: 650px;}
